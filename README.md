@@ -11,7 +11,7 @@ While I already have plenty of experience coding in HTML I am still going throug
 ---
 
 I've learned a lot about web development so far. Here are my thoughts about web development from this project:
-  * __What new skills have you learned?__ I learned about the [Mozilla Developer Network (MDN) HTML element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). From there I learned how to use the [<figure> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure).
+  * __What new skills have you learned?__ I learned about the [Mozilla Developer Network (MDN) HTML element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). From there I learned how to use the [&lt;figure&gt; element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure) when captioning images.
   * __What has been easy?__ Everything. I'm very comfortable with all of this stuff.
   * __What has been difficult?__ Getting in the habit of coding for an hour or two every night.
   * __How have you used the problem solving strategies from the first project to overcome challenges so far?__ The analogy of trees and HTML is very helpful when solving problems. Understanding the parent-child relationship definitely helps overcome challenges.
